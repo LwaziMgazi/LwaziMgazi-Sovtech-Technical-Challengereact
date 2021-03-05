@@ -17,3 +17,5 @@ Installation and Setup Instructions
   
 All the dependencies of the project are lists in the package.json file.
 The downloadable zip folder is about 67MB
+
+Thank you
