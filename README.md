@@ -16,3 +16,4 @@ Installation and Setup Instructions
   i. npm start, this  runs the app in development mode. Open http://localhost:3000 to view it in the browser.
   
 All the dependencies of the project are lists in the package.json file.
+The downloadable zip folder is about 67MB
