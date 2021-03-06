@@ -1,0 +1,21 @@
+type Query{
+    categories:[String]
+    jokes(cat:String):random
+}
+
+type random{
+    value:String
+}
+
+type Job{
+    id:ID!
+    title: String
+    company: Company   
+
+}
+
+type Company{
+    id:ID!
+    name:String
+}
+

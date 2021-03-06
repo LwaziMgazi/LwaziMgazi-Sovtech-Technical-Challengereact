@@ -1,0 +1,27 @@
+div.categoryjoke h1{ color: black;
+     font-family: 'Helvetica Neue', sans-serif; font-size: 46px; 
+    font-weight: 100;
+    line-height: 50px; 
+    letter-spacing: 1px;
+    padding: 0 0 40px; 
+    border-bottom: double #555;
+ }
+ .categoryjoke{
+     width: 100%;
+ }
+
+ .para{
+     text-align: center;
+     height: auto;
+     width: 90%;
+     background:  rgb(37, 150, 190,0.3);
+     font-family: 'Helvetica Neue', sans-serif; font-size: 30px; 
+     margin:5% ;
+     border-radius: 15px;
+     padding: 30px;
+ }
+ .homeicon{
+     position: relative;
+     left: 40%;
+     
+ }
