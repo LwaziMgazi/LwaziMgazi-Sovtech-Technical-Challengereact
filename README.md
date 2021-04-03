@@ -1,6 +1,6 @@
-# LwaziMgazi-Sovtech-Technical-Challengereact
 
-# Sovtech-technical-challenge
+
+# React api application
 
 Installation and Setup Instructions
 
